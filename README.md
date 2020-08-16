@@ -1,5 +1,5 @@
 # My-Data-Science-Projects
-It includes all projects that I did while learning Machine Learning.
+It includes all my Data Science Projects.
 # Project Title
 
 One Paragraph of project description goes here
