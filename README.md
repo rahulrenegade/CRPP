@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Deployment
 
 This project is deployed on Heroku.
-- **Heraku** - Heroku is a cloud platform as a service supporting several programming languages. 
+- [Heraku](https://www.heroku.com/) - Heroku is a cloud platform as a service supporting several programming languages. 
 
 ## Built With
 
