@@ -36,10 +36,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Krish Naik** - *Initial work* - [Krishnaik](https://github.com/krishnaik06)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Hat tip to Krishnaik(@krishnaik06) for inspiring me to take this project.
