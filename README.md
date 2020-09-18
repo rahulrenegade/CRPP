@@ -41,6 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to Krishnaik(@krishnaik06) for inspiring me to get into this project.
+* Hat tip to Krishnaik(@krishnaik06) for inspiring me to take this project.
 * Inspiration
 * etc
