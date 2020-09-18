@@ -24,8 +24,9 @@ This project is deployed on Heroku.
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - A web framework written in Python.
 
 ## Contributing
+We welcome all contributors.
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+CRPP was created with a vision of solving modern problems. With your contributions, we can get there sooner. We appreciate your help!
 
 ## Versioning
 
@@ -44,3 +45,15 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to Krishnaik(@krishnaik06) for inspiring me to take this project.
 * Inspiration
 * etc
+## Contributing
+We welcome all contributors.
+
+Kush was created with a vision to help programmers, like you and I, write code better. With your contributions, we can get there sooner. We appreciate your help!
+
+## License
+Copyright (C) 2017-2020 Rahul Mullaguru
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
