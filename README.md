@@ -1,68 +1,27 @@
-# My-Data-Science-Projects
-It includes all my Data Science Projects.
-# Project Title
+# CRPP (Car Resale Price Predictor)
 
-One Paragraph of project description goes here
+- An end to end implemented web app, which predicts the resale price of an SUV or any four-wheeler, when given the details like mileage, years used and other parameters. It predicts the reasonable price, a car can be sold at.
 
-## Getting Started
+## About 
+
+It’s built with Python3, Machine learning and with a lot of frameworks like Flask, PyTorch, Matplotlib, Seaborn, Scikit-learn, etc.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+There are no requirements for this. This is a web app.
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+This project is deployed on Heroku.
+**Heraku** - Heroku is a cloud platform as a service supporting several programming languages. 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Jupyter Notebook](https://jupyter.org/) - An open-source software.
+* [Scikit-Learn](https://maven.apache.org/) -  A open-sourceframework for Machine Learning.
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/) - A web framework written in Python.
 
 ## Contributing
 
@@ -74,9 +33,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Krish Naik** - *Initial work* - [Krishnaik](https://github.com/krishnaik06)
 
 ## License
 
@@ -84,6 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Hat tip to Krishnaik(@krishnaik06) for inspiring me to get into this project.
 * Inspiration
 * etc
